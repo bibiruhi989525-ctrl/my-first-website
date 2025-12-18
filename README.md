@@ -737,10 +737,9 @@ Sitemap: https://USERNAME.github.io/REPOSITORY-NAME/sitemap.xml<img src="photo.j
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Website</title>
+<meta name="viewport" content="width=My<title>My Website</title>
 </head>
 <body>
 <h1>Welcome to My Website</h1>
 </body>
-</html><img src="photo.jpg" alt="My Photo" width="300">
+</html><img src="photo.jpg" alt="My Photo" width="300"><meta name="google-site-verification" content="9IedD-h3DGea4nN6r652mu2H4W1KLFQ9RIiaqkRR77k" />
