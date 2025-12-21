@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="qvUOugwXPlt2qUSpShkIMNYyREuKUPrPSZLaqOT0X0g" />
 /* Small screen के लिए font और spacing adjust */
 @media (max-width: 600px) {
     h2 {
