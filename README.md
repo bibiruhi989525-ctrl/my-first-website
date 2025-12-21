@@ -1,4 +1,52 @@
-<meta name="google-site-verification" content="qvUOugwXPlt2qUSpShkIMNYyREuKUPrPSZLaqOT0X0g" />
+https://bibiruhi989525-ctrl.github.io/my-first-website/<meta name="description" content="My first personal website hosted on GitHub Pages"><!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    .box {
+      background: white;
+      margin: 40px auto;
+      padding: 20px;
+      max-width: 400px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    img {
+      width: 120px;
+      border-radius: 50%;
+    }
+    a {
+      display: block;
+      margin: 10px 0;
+      color: white;
+      background: #007bff;
+      padding: 10px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box">
+    <img src="photo.jpg">
+    <h2>Md Afgan</h2>
+    <p>Welcome to my first website.<br>
+    This site is hosted on GitHub Pages.</p>
+
+    <a href="https://youtube.com">YouTube</a>
+    <a href="https://wa.me/91XXXXXXXXXX">WhatsApp</a>
+  </div>
+</body>
+</html><meta name="google-site-verification" content="qvUOugwXPlt2qUSpShkIMNYyREuKUPrPSZLaqOT0X0g" />
 /* Small screen के लिए font और spacing adjust */
 @media (max-width: 600px) {
     h2 {
